@@ -1,15 +1,15 @@
 <<<<<<< HEAD
 # Site settings
-title: Starving Artist Jekyll Theme
+title: ld.github.io
 email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+author: pallasowl 
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+  url: "https://ld.github.io"
 
 header: images/logo.png
 
