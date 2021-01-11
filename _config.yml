@@ -8,7 +8,8 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github: pallasowl.github.io
-  url: "https://larissas.space"
+repository: https://github.com/pallasowl/ld.github.io
+url: "https://ld.github.io"
 
 header: images/logo.png
 
